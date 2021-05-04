@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="jenkinsfile-test" type="JavaFX" />
       <mapping pattern=".jenkins.npm" type="JavaFX" />
+      <mapping pattern=".jenkins.build" type="JavaFX" />
       <mapping pattern=".jenkins.deploy-prod" type="JavaFX" />
       <mapping pattern="jenkinsfile-prod" type="JavaFX" />
       <mapping pattern=".jenkins.deploy-test" type="JavaFX" />
