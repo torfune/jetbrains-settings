@@ -95,6 +95,9 @@
     <keyboard-shortcut first-keystroke="meta add" />
   </action>
   <action id="IncrementWindowHeight" />
+  <action id="Macro.Format and Save">
+    <keyboard-shortcut first-keystroke="meta s" />
+  </action>
   <action id="ManageRecentProjects">
     <keyboard-shortcut first-keystroke="ctrl r" />
   </action>
@@ -138,6 +141,7 @@
   <action id="ResizeToolWindowUp" />
   <action id="Run" />
   <action id="RunDashboard.CopyConfiguration" />
+  <action id="SaveAll" />
   <action id="SearchEverywhere.NavigateToNextGroup">
     <keyboard-shortcut first-keystroke="page_down" />
   </action>
